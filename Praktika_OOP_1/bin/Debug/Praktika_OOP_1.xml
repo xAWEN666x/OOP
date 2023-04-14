@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Praktika_OOP_1</name>
+    </assembly>
+    <members>
+        <member name="M:Praktika_OOP_1.Zadanie1.ImplicitCasting">
+            <summary>
+            Пункт 1. Неявное преобразование.
+            </summary>
+            Неявное преобразование простых и ссылочных типов,
+            в виде комментариев внести в программу таблицу неявных преобразований;
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.ExplicitCasting">
+            <summary>
+            Пункт 2. Явное преобразование.
+            </summary>
+            Явное преобразование простых и ссылочных типов, 
+            виде комментариев внести в программу таблицу явных преобразований;
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.CatchCastingException">
+            <summary>
+            Пункт 3. Вызвать и обработать исключение преобразования типов.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.SafeCasting">
+            <summary>
+            Пункт 4. Безопасное приведение ссылочных типов с помощью операторов as и is.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.UserImplicitExplicit">
+            <summary>
+            Пункт 5. Пользовательское преобразование типов Implicit, Explicit;
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.ConvertTask">
+            <summary>
+            Пункт 6. 6)	Преобразование с помощью класса Convert и преобразование 
+            строки в число с помощью методов Parse,
+            TryParse класса System.Int32.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.TextBox1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            Пункт 7. Написать программу, позволяющую ввод в текстовое поле TextBox
+            только символов, задающих правильный формат вещественного числа со знаком.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.SetType(System.String)">
+            <summary>
+            Возвращает динамический тип с каким-то значением типа type
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.TestExplicitIntoType(System.Object,System.String)">
+            <summary>
+            Проверяет явное пребразование типа в тип.
+            </summary>
+            <param name="value1"></param>
+            <param name="type"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.TestImplicitIntoType(System.Object,System.String)">
+            <summary>
+            Проверяет неявное преобразование типа в тип.
+            </summary>
+            <param name="value1"></param>
+            <param name="type"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.button10_Click(System.Object,System.EventArgs)">
+            <summary>
+            Кнопка, при нажатии которой происходит обработка преобразования из одного типа в другой.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Praktika_OOP_1.Zadanie1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="F:Praktika_OOP_1.Zadanie2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Praktika_OOP_1.Zadanie3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Praktika_OOP_1.Zadanie3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Praktika_OOP_1.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:Praktika_OOP_1.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:Praktika_OOP_1.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

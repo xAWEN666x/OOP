@@ -1,0 +1,14 @@
+E:\Timur\WOrk\Praktika_OOP_1\bin\Debug\Praktika_OOP_1.exe.config
+E:\Timur\WOrk\Praktika_OOP_1\bin\Debug\Praktika_OOP_1.exe
+E:\Timur\WOrk\Praktika_OOP_1\bin\Debug\Praktika_OOP_1.pdb
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.csproj.AssemblyReference.cache
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.csproj.SuggestedBindingRedirects.cache
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.Zadanie1.resources
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.Properties.Resources.resources
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.csproj.GenerateResource.cache
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.csproj.CoreCompileInputs.cache
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.exe
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.pdb
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.Zadanie2.resources
+E:\Timur\WOrk\Praktika_OOP_1\obj\Debug\Praktika_OOP_1.Zadanie3.resources
+E:\Timur\WOrk\Praktika_OOP_1\bin\Debug\Praktika_OOP_1.xml
