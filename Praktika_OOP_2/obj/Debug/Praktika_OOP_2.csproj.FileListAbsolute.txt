@@ -1,0 +1,11 @@
+E:\Timur\WOrk\Praktika_OOP_2\bin\Debug\Praktika_OOP_2.exe.config
+E:\Timur\WOrk\Praktika_OOP_2\bin\Debug\Praktika_OOP_2.exe
+E:\Timur\WOrk\Praktika_OOP_2\bin\Debug\Praktika_OOP_2.pdb
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.csproj.AssemblyReference.cache
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.csproj.SuggestedBindingRedirects.cache
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.Form1.resources
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.Properties.Resources.resources
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.csproj.GenerateResource.cache
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.csproj.CoreCompileInputs.cache
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.exe
+E:\Timur\WOrk\Praktika_OOP_2\obj\Debug\Praktika_OOP_2.pdb
